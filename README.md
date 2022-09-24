@@ -21,7 +21,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![](./images/qr-code-component-screenshot.jpg)
 
-
 ### Links
 
 - Solution URL: [solution URL](https://github.com/LukeDHarrison/qr-code-component-solution)
@@ -45,9 +44,8 @@ Create a functional QR generator with link input and formatter
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Luke D Harrison](https://www.your-site.com)
+- Frontend Mentor - [@LukeDHarrison](https://www.frontendmentor.io/profile/LukeDHarrison)
+- Twitter - [@LukeDHarrison\_](https://twitter.com/LukeDHarrison_)
 
 ## Acknowledgments
-
