@@ -44,8 +44,8 @@ Create a functional QR generator with link input and formatter
 
 ## Author
 
-- Website - [Luke D Harrison](https://www.your-site.com)
-- Frontend Mentor - [@LukeDHarrison](https://www.frontendmentor.io/profile/LukeDHarrison)
+- Website - [Luke D Harrison](https://www.ldh.dev)
+- Frontend Mentor Profile - [@LukeDHarrison](https://www.frontendmentor.io/profile/LukeDHarrison)
 - Twitter - [@LukeDHarrison\_](https://twitter.com/LukeDHarrison_)
 
 ## Acknowledgments
